@@ -76,9 +76,7 @@ Il mio obiettivo? Diventare un punto di riferimento per le aziende che vogliono 
 
 ---
 
-## 🚀 Progetti
-
-### 🌐 rosscoding.com — Portfolio con CRM integrato
+## 🌐 Portfolio con CRM integrato
 Proseguendo con la mia passione nella programmazione e informatica, sto sviluppando anche un mio sito-web con il quale possa raccogliere tutti i miei dati. Tramite questo, infatti, voglio riuscire a creare uno spazio dedicato ai miei progetti, competenze e contatti. Gestendo il tutto in un piccolo CRM personale.
 
 👉 **[rosscoding.com](https://rosscoding.com)**
