@@ -17,13 +17,17 @@ $federico = [
 
 ---
 
-Non avevo la minima idea di cosa fosse un computer quando sono nato. La folgorazione è arrivata poco dopo — quando ho capito che quei tasti e quegli schermi non servivano solo a giocare, ma erano la chiave per creare mondi e risolvere problemi reali. Da lì non mi sono più fermato.
+Non avevo la minima idea di cosa fosse un computer quando sono nato, ma la folgorazione è arrivata non appena ho capito che quegli schermi non servivano solo a giocare, ma erano la chiave per creare mondi e risolvere problemi reali. 
 
-Mi definisco un **"informatico creativo"**: amo la logica della programmazione tanto quanto l'impatto visivo e l'usabilità di quello che costruisco. Se un sistema funziona ma non è intuitivo, sento che il lavoro è a metà.
+Mi definisco un **"informatico creativo"**: amo la logica della programmazione tanto quanto l'impatto visivo e l'usabilità di ciò che costruisco, convinto che un sistema che funziona ma non è intuitivo sia un lavoro completato solo a metà.
 
-La mia vera prova sul campo è iniziata con **Comitel S.r.l.**, dove per tre anni sono cresciuto da stagista fino a ricoprire un ruolo multidisciplinare: sviluppo software, automazioni AI, sistemistica, gestione database e conformità GDPR. Ho anche avuto l'occasione di condividere queste esperienze come **relatore** in un evento locale con *Laboratorio d'impresa 5.0*, presentando casi pratici di integrazione dell'AI nei processi aziendali.
+Dopo la formazione scientifica e la **Laurea in Informatica presso l'Università di Verona**, il mio percorso professionale in **Comitel S.r.l.** ha rappresentato la naturale evoluzione pragmatica dei miei studi. 
 
-Il mio obiettivo? Diventare un punto di riferimento per le aziende che vogliono evolversi digitalmente.
+Proprio su **VTE-Next**, il CRM/BPM aziendale oggetto della mia **tesi di laurea**, sono cresciuto rapidamente da stagista fino a diventarne il **programmatore e gestore principale**. In questi tre anni il mio ruolo si è consolidato in una figura multidisciplinare: mi sono occupato quotidianamente di **sviluppo software**, implementazione di **automazioni AI**, gestione database, sistemistica e conformità **GDPR**. 
+
+Parallelamente all'attività tecnica, ho avuto l'opportunità di condividere l'innovazione raggiunta come relatore per il **Laboratorio d’impresa 5.0**, presentando casi pratici su come l'integrazione dell'**intelligenza artificiale** possa ottimizzare concretamente i processi aziendali. 
+
+Il mio obiettivo è continuare a essere un punto di riferimento per le aziende che vogliono evolversi, trasformando la complessità tecnologica in soluzioni digitali agili, moderne e orientate al futuro.
 
 ---
 
