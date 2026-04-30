@@ -1,10 +1,29 @@
 # Ciao, sono Federico Rossato 👋
 
-**Developer PHP & Integratore AI | Automazione Processi Aziendali | Laureato in Informatica @UniVR**
+### FullStack Developer · AI Projects · Automazione Processi
 
-Sono uno sviluppatore veronese classe 2000, con una forte vocazione pratica e una laurea triennale in Informatica all'Università degli Studi di Verona (2024). Lavoro come developer in un contesto aziendale reale da oltre due anni, dove mi occupo di sviluppo backend, automazione, integrazione di API e intelligenza artificiale applicata ai processi aziendali.
+```php
+<?php
 
-Il mio obiettivo è diventare un punto di riferimento per le aziende che vogliono evolversi digitalmente: dall'ottimizzazione dei processi interni allo sviluppo di applicazioni su misura.
+$federico = [
+    "location"   => "Verona, Italia 🇮🇹",
+    "born"       => "1 luglio 2000",
+    "education"  => "Laurea Triennale in Informatica – UniVR (dic. 2024)",
+    "current"    => "Tecnico Informatico, Sistemista & Responsabile GDPR @ Comitel S.r.l.",
+    "focus"      => ["PHP", "AI Integration", "Process Automation", "API Development"],
+    "website"    => "https://rosscoding.com",
+];
+```
+
+---
+
+Non avevo la minima idea di cosa fosse un computer quando sono nato. La folgorazione è arrivata poco dopo — quando ho capito che quei tasti e quegli schermi non servivano solo a giocare, ma erano la chiave per creare mondi e risolvere problemi reali. Da lì non mi sono più fermato.
+
+Mi definisco un **"informatico creativo"**: amo la logica della programmazione tanto quanto l'impatto visivo e l'usabilità di quello che costruisco. Se un sistema funziona ma non è intuitivo, sento che il lavoro è a metà.
+
+La mia vera prova sul campo è iniziata con **Comitel S.r.l.**, dove per tre anni sono cresciuto da stagista fino a ricoprire un ruolo multidisciplinare: sviluppo software, automazioni AI, sistemistica, gestione database e conformità GDPR. Ho anche avuto l'occasione di condividere queste esperienze come **relatore** in un evento locale con *Laboratorio d'impresa 5.0*, presentando casi pratici di integrazione dell'AI nei processi aziendali.
+
+Il mio obiettivo? Diventare un punto di riferimento per le aziende che vogliono evolversi digitalmente.
 
 ---
 
@@ -16,6 +35,10 @@ Il mio obiettivo è diventare un punto di riferimento per le aziende che voglion
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-2E3A59?style=for-the-badge&logo=microchip&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-00B2EE?style=for-the-badge&logo=intel&logoColor=white)
 
 **Database**
 
@@ -23,41 +46,53 @@ Il mio obiettivo è diventare un punto di riferimento per le aziende che voglion
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Strumenti & Tecnologie**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-
 **AI & Integrazioni**
 
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cerebras](https://img.shields.io/badge/Cerebras-FF6B35?style=for-the-badge&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
+**Strumenti & Sistemi**
 
-## 💼 Cosa faccio nella vita reale
-
-Attualmente lavoro in **Comitel S.r.l.** (Verona) come sviluppatore e sistemista, dove mi occupo di:
-
-- 🤖 **Integrazione AI applicata** — costruisco pipeline PHP che estraggono dati dal gestionale aziendale, li inviano a provider AI (Gemini, Cerebras) con istruzioni personalizzate, e restituiscono analisi utili all'azienda
-- ⚙️ **Automazione processi** — script PHP e cronjob schedulati su Linux per il controllo automatico di migliaia di record (scadenze, opportunità commerciali, KPI per agente)
-- 🗄️ **Database multi-ambiente** — gestione e ottimizzazione query su MariaDB, MySQL e Microsoft SQL Server
-- 🖥️ **Sistemistica Linux** — amministrazione server Debian in produzione via SSH
-- 🔌 **Integrazioni API** — sviluppo custom su gestionale VTENext (pulsanti personalizzati, pagine dedicate, calcoli complessi)
+![Linux](https://img.shields.io/badge/Linux%20Debian-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ---
 
-## 🎓 Formazione
+## 💼 Cosa faccio ogni giorno
 
-🎓 **Laurea Triennale in Informatica** — Università degli Studi di Verona, 2024
-
-Percorso con focus su: Algoritmi, Ingegneria del Software, Basi di Dati, Reti, Sistemi Operativi, Linguaggi di Programmazione, Architettura degli Elaboratori.
+- 🤖 **AI applicata** — con il lavoro in Comitel ho avuto la possibilià di sviluppare un progetto in PHP per estrarre dati dal gestionale, analizzarli con le API di LLM (Gemini, Cerebras) e restituendo output con informazioni aziendali.
+  
+- ⚡ **Automazioni** — durante il mio ruolo da programmatore in Comitel ho sviluppato cronjob schedulati su Linux per il controllo automatico di migliaia di record: scadenze, KPI commerciali, opportunità — senza l'intervento umano.
+  
+- 🔌 **Integrazioni API** — sviluppo custom su VTE-Next. Attraverso lo studio delle API ho compreso come poter collegare le varie automazioni alle informazioni contenute nel gestionale VTE-Next. Creando così pulsanti, pagine personalizzate e permettere calcoli complessi su grandi volumi in pochi secondi.
+  
+- 🗄️ **Database** — avendo installato localmente il Database del gestionale VTE-Next ho sviluppato alcune capacità nella creazione di query e ottimizzazione su MariaDB, occupandomi anche della connessione tra il gestionale e un Database esterno in Microsoft Server. Inoltre, grazie al corso universitario Basi dei Dati ho approfondito la mia conoscenza in MySQL.
+  
+- 🔒 **GDPR & Privacy** — con il mio ruolo da Responsabile GDPR mi sono occupato della redazione di documenti e implementazione procedure di conformità normativa.
+  
+- 🖥️ **Sistemistica Linux** — montando localmente il gestionale di VTE-Next mi sono occupato dell'amministrazione server Debian via SSH di risorse, servizi e monitoraggio.
 
 ---
 
-## 📍 Dove trovarmi
+## 🚀 Progetti
 
+### 🌐 rosscoding.com — Portfolio con CRM integrato
+Proseguendo con la mia passione nella programmazione e informatica, sto sviluppando anche un mio sito-web con il quale possa raccogliere tutti i miei dati. Tramite questo, infatti, voglio riuscire a creare uno spazio dedicato ai miei progetti, competenze e contatti. Gestendo il tutto in un piccolo CRM personale.
+
+👉 **[rosscoding.com](https://rosscoding.com)**
+
+---
+
+## 📫 Contattami
+
+[![Website](https://img.shields.io/badge/rosscoding.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rosscoding.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/federicorossato)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rossato.federico00@gmail.com)
-[![Location](https://img.shields.io/badge/Verona,%20Italia-🇮🇹-lightgrey?style=for-the-badge)](https://www.google.com/maps/place/Verona)
+
+---
+
+<p align="center">
+  <i>CODE · CREATE · INNOVATE</i>
+</p>
