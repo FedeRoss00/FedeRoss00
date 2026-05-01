@@ -140,9 +140,12 @@ Principali esami sostenuti:
 ## 🧩 Soft Skill
 
 ```
-✅  Problem Solving Strutturato        ✅  Comunicazione Efficace
-✅  Lavoro in Team e in Autonomia      ✅  Gestione dello Stress
-✅  Pensiero Razionale e Analitico     ✅  Curiosità e Apprendimento Continuo
+✅  Problem Solving Strutturato        
+✅  Comunicazione Efficace
+✅  Lavoro in Team e in Autonomia      
+✅  Gestione dello Stress
+✅  Pensiero Razionale e Analitico     
+✅  Curiosità e Apprendimento Continuo
 ```
 
 ---
