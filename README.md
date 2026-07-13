@@ -21,7 +21,7 @@ $federico_rossato = [
     "location"   => "Verona, Italia 🇮🇹",
     "born"       => "1 luglio 2000",
     "education"  => "Laurea Triennale in Informatica – UniVR (dic. 2024)",
-    "current"    => "Tecnico Informatico, Sistemista & Responsabile GDPR @ Comitel S.r.l.",
+    "current"    => "Informatico, Amministratore Processi e Automazioni & Responsabile GDPR @ Comitel S.r.l.",
     "focus"      => ["PHP", "AI Integration", "Process Automation", "API Development"],
     "website"    => "https://rosscoding.com",
     "languages"  => ["Italiano (madrelingua)", "Inglese (B1)"],
@@ -39,7 +39,7 @@ Ho anche avuto l'opportunità di condividere questi risultati come **relatore pe
 ## 💼 Esperienza
 
 ### 🏢 Comitel S.r.l. — Verona
-**Sviluppatore di Processi & AI | Tecnico Informatico, Sistemista & Responsabile GDPR**
+**Sviluppatore di Processi & AI | Informatico, Amministratore Processi e Automazioni & Responsabile GDPR**
 `2023 – presente` *(iniziato come stagista)*
 
 - 🔧 **Sviluppo software** — Sviluppo di applicazioni web e software gestionale (VTE-Next), con integrazione di API esterne e servizi di intelligenza artificiale per automatizzare e velocizzare i flussi operativi aziendali.
@@ -50,7 +50,7 @@ Ho anche avuto l'opportunità di condividere questi risultati come **relatore pe
 
 - 🔌 **Integrazioni API** — Sviluppo custom su VTE-Next. Attraverso lo studio delle API ho compreso come collegare le varie automazioni alle informazioni contenute nel gestionale, creando pulsanti, pagine personalizzate e permettendo calcoli complessi su grandi volumi in pochi secondi.
 
-- 🗄️ **Database** — Avendo installato localmente il database del gestionale VTE-Next ho sviluppato alcune capacità nella creazione di query e ottimizzazione su MariaDB, occupandomi anche della connessione tra il gestionale e un database esterno in Microsoft SQL Server. Grazie al corso universitario Basi dei Dati ho poi approfondito ulteriormente la mia conoscenza in MySQL.
+- 🗄️ **Database** — Avendo installato localmente il database del gestionale VTE-Next ho sviluppato notevoli capacità nella creazione di query e ottimizzazione su MariaDB, occupandomi anche della connessione tra il gestionale e un database esterno in Microsoft SQL Server. Grazie al corso universitario Basi dei Dati ho poi approfondito ulteriormente la mia conoscenza in MySQL.
 
 - 🖥️ **Sistemistica Linux** — Montando localmente il gestionale VTE-Next mi sono occupato dell'amministrazione server Debian via SSH: gestione di risorse, servizi e monitoraggio.
 
