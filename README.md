@@ -126,7 +126,7 @@ Principali esami sostenuti:
 
 | Categoria | Dettaglio |
 |---|---|
-| **Linguaggi** | PHP ⭐⭐⭐⭐⭐ · JavaScript ⭐⭐⭐⭐ · Java · C · HTML/CSS |
+| **Linguaggi** | PHP ⭐⭐⭐⭐⭐ · JavaScript ⭐⭐⭐⭐ · Java · C · HTML/CSS · Python |
 | **Database** | MariaDB · MySQL · Microsoft SQL Server |
 | **AI & LLM** | Gemini API · Cerebras · Integrazione REST in PHP |
 | **Automazione** | Cronjob Linux · Script schedulati · Process automation |
