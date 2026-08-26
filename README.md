@@ -30,10 +30,6 @@ $federico_rossato = [
 
 Mi definisco un **"informatico creativo"**: amo la logica della programmazione tanto quanto l'impatto visivo e l'usabilità di ciò che costruisco. Sono convinto che un sistema che funziona ma non è intuitivo sia un lavoro completato solo a metà.
 
-Dopo la **Laurea in Informatica all'Università di Verona**, il mio percorso in **Comitel S.r.l.** mi ha portato da stagista a diventare programmatore e gestore principale di **VTE-Next**, il CRM/BPM aziendale oggetto della mia tesi. In tre anni il mio ruolo è diventato multidisciplinare: sviluppo software, automazioni AI, gestione database, sistemistica e conformità GDPR.
-
-Ho anche avuto l'opportunità di condividere questi risultati come **relatore per Laboratorio d'impresa 5.0**, presentando casi pratici di integrazione dell'AI nei processi aziendali.
-
 ---
 
 ## 💼 Esperienza
@@ -148,16 +144,6 @@ Principali esami sostenuti:
 ✅  Pensiero Razionale e Analitico     
 ✅  Curiosità e Apprendimento Continuo
 ```
-
----
-
-## 🌐 Portfolio & Progetto Personale
-
-Sto sviluppando **[rosscoding.com](https://rosscoding.com)**, il mio sito personale con un piccolo CRM integrato per raccogliere progetti, competenze e contatti. Un laboratorio personale dove applico le stesse logiche che uso in azienda.
-
-👉 **[rosscoding.com](https://rosscoding.com)**
-
----
 
 ## 🌍 Lingue
 
