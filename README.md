@@ -21,7 +21,7 @@ $federico_rossato = [
     "location"   => "Verona, Italia 🇮🇹",
     "born"       => "1 luglio 2000",
     "education"  => "Laurea Triennale in Informatica – UniVR (dic. 2024)",
-    "current"    => "Informatico, Amministratore Processi e Automazioni & Responsabile GDPR @ Comitel S.r.l.",
+    "current"    => "Software Engineer",
     "focus"      => ["Coding", "AI Integration", "Process Automation", "API Development"],
     "website"    => "https://rosscoding.com",
     "languages"  => ["Italiano (madrelingua)", "Inglese (B1)"],
@@ -36,7 +36,7 @@ Mi definisco un **"informatico creativo"**: amo la logica della programmazione t
 
 ### 🏢 Comitel S.r.l. — Verona
 **Sviluppatore di Processi & AI | Informatico, Amministratore Processi e Automazioni & Responsabile GDPR**
-`2023 – presente` *(iniziato come stagista)*
+`2023
 
 - 🔧 **Sviluppo software** — Sviluppo di applicazioni web e software gestionale (VTE-Next), con integrazione di API esterne e servizi di intelligenza artificiale per automatizzare e velocizzare i flussi operativi aziendali.
 
@@ -77,7 +77,6 @@ Mi definisco un **"informatico creativo"**: amo la logica della programmazione t
 ### 🤖 AI & Integrazioni
 
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Cerebras](https://img.shields.io/badge/Cerebras-FF6B35?style=for-the-badge&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🖥️ Sistemi & Strumenti
@@ -107,23 +106,17 @@ Principali esami sostenuti:
 
 ---
 
-### 🏫 Diploma Liceo Scientifico — Indirizzo Scienze Applicate
-**I.S. Angelo Messedaglia, Verona** · `2018/2019`
-
----
-
 ## 🧠 Competenze Tecniche
 
 | Categoria | Dettaglio |
 |---|---|
 | **Linguaggi** | PHP ⭐⭐⭐⭐⭐ · JavaScript ⭐⭐⭐⭐ · Java · C · HTML/CSS · Python |
 | **Database** | MariaDB · MySQL · Microsoft SQL Server |
-| **AI & LLM** | Gemini API · Cerebras · Integrazione REST in PHP |
-| **Automazione** | Cronjob Linux · Script schedulati · Process automation |
+| **AI & LLM** | Gemini API |
+| **Automazione** | Cronjob Linux · Process automation |
 | **Sistemi** | Linux Debian · SSH · Amministrazione server |
-| **API** | REST API design · Integrazione API esterne · VTE-Next custom API |
+| **API** | REST API design · Integrazione API esterne · VTE-Next custom API ⭐⭐⭐⭐⭐ |
 | **Privacy** | GDPR · Documentazione privacy · Conformità normativa |
-| **Gestione BPM** | Mappatura processi · Ottimizzazione flussi aziendali |
 
 ---
 
