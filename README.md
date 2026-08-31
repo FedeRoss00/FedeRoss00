@@ -46,8 +46,8 @@ Mi definisco un **"informatico creativo"**: amo la logica della programmazione t
 
 - 🔌 **Integrazioni API** — Sviluppo custom su VTE-Next. Attraverso lo studio delle API ho compreso come collegare le varie automazioni alle informazioni contenute nel gestionale, creando pulsanti, pagine personalizzate e permettendo calcoli complessi su grandi volumi in pochi secondi.
 
-- 🗄️ **Database** — Avendo installato localmente il database del gestionale VTE-Next ho sviluppato notevoli capacità nella creazione di query e ottimizzazione su MariaDB, occupandomi anche della connessione tra il gestionale e un database esterno in Microsoft SQL Server. Grazie al corso universitario Basi dei Dati ho poi approfondito ulteriormente la mia conoscenza in MySQL.
-
+- 🗄️ **Database** — Avendo installato localmente il database del gestionale VTE-Next ho sviluppato notevoli capacità nella creazione di query e ottimizzazione su MariaDB, occupandomi anche della connessione tra il gestionale e un database esterno in Microsoft SQL Server.
+  
 - 🖥️ **Sistemistica Linux** — Montando localmente il gestionale VTE-Next mi sono occupato dell'amministrazione server Debian via SSH: gestione di risorse, servizi e monitoraggio.
 
 - 🔒 **GDPR & Privacy** — Con il mio ruolo da Responsabile GDPR mi sono occupato della redazione di documenti e dell'implementazione di procedure di conformità normativa.
