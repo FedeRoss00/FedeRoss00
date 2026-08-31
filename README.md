@@ -54,13 +54,6 @@ Mi definisco un **"informatico creativo"**: amo la logica della programmazione t
 
 ---
 
-### 🎭 Comparsa — Arena di Verona
-`Estate 2020 e 2021`
-
-Partecipazione alle produzioni liriche estive dell'Arena di Verona. Esperienza che ha rafforzato il lavoro in team in contesti complessi, la gestione dello stress e il rispetto rigoroso di tempistiche operative.
-
----
-
 ## 🛠️ Stack Tecnologico
 
 ### 🧑‍💻 Linguaggi di Programmazione
